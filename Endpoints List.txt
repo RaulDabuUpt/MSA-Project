@@ -1,5 +1,8 @@
-/Register POST - Register user
-/login POST - login user
-/PreferenceList GET - get preferences for user (blank by default)
-/PreferenceUpdate PUT - update preferences for user
-/gametags GET - get tags for each game available
+users/Create POST - Register user
+users/login POST - login user
+users/update PUT - update user data(Password, username)
+users/delete DELETE - delete user data
+preferences/PreferenceList GET - get tags preferences for user (blank by default)
+preferences/preferenceupdate PUT - updata tags preferences for user
+gameslist/games GET - get list of all games for display
+gameslist/gametags GET - get tags for each game available for filtering

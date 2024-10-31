@@ -1,0 +1,14 @@
+Users:
+-unique id
+-email
+-username
+-password
+
+Gameslist
+-game name
+-tags
+
+
+Preferences
+-user
+-tags preferences
