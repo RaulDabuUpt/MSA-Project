@@ -12,3 +12,4 @@ Gameslist
 Preferences
 -user
 -tags preferences
+https://www.figma.com/design/YhkYdZ2XLBDz29WhsG4Hxf/Untitled?node-id=0-1&t=hFZ9RyHc9uk74Sn4-1
