@@ -9,11 +9,47 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/GameSelection.unity
+    guid: a541979360dc5084f9214c8a054c454b
+  - enabled: 1
     path: Assets/Scenes/TitleScene.unity
     guid: 0df812e86df67da4fa3c7bbb113a454c
   - enabled: 1
     path: Assets/Scenes/Flappy Bird.unity
     guid: 9ca656e0384355e42ac354fab4138b6c
+  - enabled: 1
+    path: Assets/Scenes/TitleScene 1.unity
+    guid: 8c9811d7c1feda94dac40849fbdd81cc
+  - enabled: 1
+    path: Assets/Scenes/Tic Tac Toe.unity
+    guid: 18955a5377861cf4c8a33497842c260f
+  - enabled: 1
+    path: Assets/Scenes/TitleScene 2.unity
+    guid: 227b5899cdfdb2f4e80f54294f7f9141
+  - enabled: 1
+    path: Assets/Scenes/KnifeHitMainMenu.unity
+    guid: 4ac441b04192fdd4690f0a7d54c93f98
+  - enabled: 1
+    path: Assets/Scenes/KnifeHitGame.unity
+    guid: e8661b78148f12a4f9ac07ddcf27d836
+  - enabled: 1
+    path: Assets/Scenes/TitleScene 3.unity
+    guid: 1a424ef459e27174782ae03171909b0e
+  - enabled: 1
+    path: Assets/Scenes/Scene_001.unity
+    guid: 5003f26cb9a66ca41b13f5e8e1c7d2bc
+  - enabled: 1
+    path: Assets/Scenes/TitleScene 4.unity
+    guid: 6dcaca5a545fb3241ad528dce5ef0894
+  - enabled: 1
+    path: Assets/Scenes/2048.unity
+    guid: 99e5e47ad584de14f8780c7946d2d755
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: aaa29f9ed5760e949a9a0f127ce261d3
+  - enabled: 1
+    path: Assets/Scenes/FruitNinja.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

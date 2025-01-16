@@ -8,7 +8,7 @@ public class MainMenuBehaviour : MonoBehaviour
     public CanvasGroup OptionPanel;
 
     public void PlayGame() {
-        SceneManager.LoadScene("TitleScene");
+        SceneManager.LoadScene("GameSelection");
     }
     public void Options(){
         OptionPanel.alpha = 1;

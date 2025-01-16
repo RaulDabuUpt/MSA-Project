@@ -24,6 +24,12 @@ public class LogicScript : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         Time.timeScale = 1;
     }
+
+    public void ExitGame(){
+        gameOverScreen.SetActive(false);
+        Time.timeScale = 1;
+        SceneManager.LoadScene("GameSelection");
+    }
     public void gameOver()
     {
         gameOverScreen.SetActive(true);
